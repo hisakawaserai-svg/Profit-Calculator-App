@@ -41,5 +41,6 @@ Designed to help a real user (my mother) track daily selling profits easily.
 <img src="https://github.com/user-attachments/assets/bc9c43b1-9d5a-4383-931b-bd24339ef780" width="300"/>
 
 <h3>Graph Screen</h3>
-<img src="https://github.com/user-attachments/assets/994d1b58-324d-4c8c-bb77-98ea74cdb58d" width="300"/>
-<img src="https://github.com/user-attachments/assets/a16edcd6-4943-45f1-9311-5017b2d6ef2f" width="300"/>
+<h4>- Monthly profit trends </h4>
+<img src="https://github.com/user-attachments/assets/1740f735-1966-43e1-b84d-51a78e3881e6" width="300"/>
+<img src="https://github.com/user-attachments/assets/e6784467-61bf-4f28-970f-0229e56410b2" width="300"/>
