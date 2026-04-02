@@ -24,7 +24,7 @@ struct CalcView: View {
     
     @FocusState private var focusedField: FocusField?
     enum FocusField: Hashable {
-        case salesPrice, purchasePrice, postage, envelopeCost, othersCost
+        case salesPrice, purchasePrice, postage, envelopeCost, othersCost, targetProfitInput
     }
 
     @State private var salesPriceInput: String = ""
@@ -158,7 +158,7 @@ struct CalcView: View {
         }
     }
 
-    // MARK: - LabeledField（Mac Catalyst対応版）
+    // MARK: - LabeledField（Mac Catalyst対応）
     struct LabeledField: View {
         let label: String
         let placeholder: String
@@ -259,7 +259,7 @@ struct CalcView: View {
             if selectedTab == 0 {
                 ResultView(data: calculationData)
             } else {
-                TargetProfitView(data: calculationData, targetProfitInput: $targetProfitInput)
+                TargetProfitView(data: calculationData, targetProfitInput: $targetProfitInput, focusTag: .targetProfitInput ,focusedField: $focusedField)
             }
         }
     }
@@ -268,6 +268,8 @@ struct CalcView: View {
     struct TargetProfitView: View {
         let data: MercariCalcData
         @Binding var targetProfitInput: String
+        var focusTag: CalcView.FocusField? = nil
+        var focusedField: FocusState<CalcView.FocusField?>.Binding
         
         private var requiredSalesPrice: Double {
             let target = Double(targetProfitInput) ?? 0
@@ -285,6 +287,7 @@ struct CalcView: View {
                     #endif
                     .textFieldStyle(.roundedBorder)
                     .padding(.horizontal)
+                    .focused(focusedField, equals: focusTag)
                 
                 VStack(spacing: 8) {
                     Text("必要な販売価格")
