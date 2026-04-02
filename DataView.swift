@@ -98,8 +98,10 @@ struct DataView: View {
                 Divider()
                 HStack {
                     DatePicker("開始", selection: $startDate, displayedComponents: .date)
+                        .environment(\.locale, Locale(identifier: "ja_JP"))
                     Text("〜")
                     DatePicker("終了", selection: $endDate, displayedComponents: .date)
+                        .environment(\.locale, Locale(identifier: "ja_JP"))
                 }
                 .labelsHidden()
                 .padding(.horizontal, 8)
