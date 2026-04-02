@@ -27,11 +27,11 @@ Built to help my mother track profits easily.
 
 <h3>Input Screen</h3>
 <img src="https://github.com/user-attachments/assets/ba1d6427-2b09-4ba9-aaf9-e44c68eb5854" width="300"/>
-
 <img src="(ttps://github.com/user-attachments/assets/93318d7c-ffec-4520-a6b9-16c02a697193" width="300"/>
 
 <h3>List Screen</h3>
 <img src="https://github.com/user-attachments/assets/bc9c43b1-9d5a-4383-931b-bd24339ef780" width="300"/>
 
 <h3>Graph Screen</h3>
-<img src="https://github.com/user-attachments/assets/919cf96e-db87-4bb1-bb17-d88efebcd74c" width="300"/>
+<img src="https://github.com/user-attachments/assets/994d1b58-324d-4c8c-bb77-98ea74cdb58d" width="300"/>
+<img src="https://github.com/user-attachments/assets/a16edcd6-4943-45f1-9311-5017b2d6ef2f" width="300"/>
