@@ -34,6 +34,10 @@ Designed to help a real user (my mother) track daily selling profits easily.
 <img src="https://github.com/user-attachments/assets/e30350a4-d03d-4599-be7f-1c7356c4f537" width="300"/>
 
 <h3>List Screen</h3>
+<h4>- Selling items </h4>
+<img src="https://github.com/user-attachments/assets/bd01d03f-cdce-41fc-b8bc-07492264c952" width="300"/>
+
+<h4>- Sold items </h4>
 <img src="https://github.com/user-attachments/assets/bc9c43b1-9d5a-4383-931b-bd24339ef780" width="300"/>
 
 <h3>Graph Screen</h3>
