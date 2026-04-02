@@ -1,5 +1,5 @@
 # Profit-Calculator-App
-iOS app for calculating and tracking marketplace profits
+iOS app for calculating and managing marketplace profits
 
 ## Overview
 A simple iOS app for calculating and managing marketplace profits.  
@@ -18,7 +18,7 @@ Designed to help a real user (my mother) track daily selling profits easily.
 ## Improvements
 - Improved UX with input validation
 - Added error feedback instead of disabling buttons
-- Updated features based on user feedback (4 improvements)
+- Implemented 4 improvements based on user feedback
 
 ## Future
 - Web version with React
@@ -41,6 +41,6 @@ Designed to help a real user (my mother) track daily selling profits easily.
 <img src="https://github.com/user-attachments/assets/bc9c43b1-9d5a-4383-931b-bd24339ef780" width="300"/>
 
 <h3>Graph Screen</h3>
-<h4>- Monthly profit trends </h4>
+<h4>- Monthly profit chart </h4>
 <img src="https://github.com/user-attachments/assets/1740f735-1966-43e1-b84d-51a78e3881e6" width="300"/>
 <img src="https://github.com/user-attachments/assets/e6784467-61bf-4f28-970f-0229e56410b2" width="300"/>
