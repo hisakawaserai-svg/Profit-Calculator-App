@@ -26,8 +26,11 @@ Designed to help a real user (my mother) track daily selling profits easily.
 <h2>Screenshots</h2>
 
 <h3>Input Screen</h3>
+- Net profit calculation
 <img src="https://github.com/user-attachments/assets/ba1d6427-2b09-4ba9-aaf9-e44c68eb5854" width="300"/>
 <img src="https://github.com/user-attachments/assets/93318d7c-ffec-4520-a6b9-16c02a697193" width="300"/>
+- Reverse calculation (target profit → price)
+<img src="https://github.com/user-attachments/assets/e30350a4-d03d-4599-be7f-1c7356c4f537" width="300"/>
 
 <h3>List Screen</h3>
 <img src="https://github.com/user-attachments/assets/bc9c43b1-9d5a-4383-931b-bd24339ef780" width="300"/>
