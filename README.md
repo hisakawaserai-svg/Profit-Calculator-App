@@ -22,3 +22,17 @@ Built to help my mother track profits easily.
 
 ## Future
 - Web version with React
+
+## Screenshots
+
+### Input Screen
+![D39AC8AD-15DF-4953-9C9C-B6D52D37ED04_1_102_o](https://github.com/user-attachments/assets/ba1d6427-2b09-4ba9-aaf9-e44c68eb5854)
+
+![76609AD2-BA3B-422F-B2A6-66142AF8142F_1_102_o](https://github.com/user-attachments/assets/93318d7c-ffec-4520-a6b9-16c02a697193)
+
+### List Screen
+![5758D7A3-9C4B-42DE-A163-30272895EE3A_1_102_o](https://github.com/user-attachments/assets/bc9c43b1-9d5a-4383-931b-bd24339ef780)
+
+### Graph Scree
+![B1B96093-EB47-4AA3-BE88-F253F8B200B2_4_5005_c](https://github.com/user-attachments/assets/919cf96e-db87-4bb1-bb17-d88efebcd74c)
+
