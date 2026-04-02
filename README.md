@@ -2,18 +2,18 @@
 iOS app for calculating and tracking marketplace profits
 
 ## Overview
-A simple iOS app to calculate and manage profit for marketplace selling.  
-Built to help my mother track profits easily.
+A simple iOS app for calculating and managing marketplace profits.  
+Designed to help a real user (my mother) track daily selling profits easily.
 
 ## Features
 - Calculate net profit (price, cost, shipping, fees)
 - Reverse calculation from target profit
-- Record management (selling / sold)
-- Monthly summary and graph
+- Record management (selling / sold items)
+- Monthly summary and graph visualization
 
 ## Tech
-- Swift
-- CoreData
+- Swift (iOS Development)  
+- CoreData (Local database)
 
 ## Improvements
 - Improved UX with input validation
